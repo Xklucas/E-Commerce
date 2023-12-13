@@ -1,4 +1,4 @@
-#Loja E-Commerce
+# E-Commerce
 Trabalho feito baseado em todos conceitos aprendidos duarnte o semestre em INF112 com o intuito de simular um sistema de loja virtual, com diversas funcionalidades.
 #Integrantes
 Lucas Góes - 93740 
